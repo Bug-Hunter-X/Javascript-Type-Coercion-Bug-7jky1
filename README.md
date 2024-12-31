@@ -1,0 +1,2 @@
+# Javascript Type Coercion Bug
+This code demonstrates a common issue in Javascript related to type coercion. When using the + operator with a mix of strings and numbers, Javascript will perform string concatenation instead of numerical addition. This can lead to unexpected results. The bug.js file contains the buggy code, while bugSolution.js provides a solution demonstrating how to handle type coercion explicitly to avoid this issue.
